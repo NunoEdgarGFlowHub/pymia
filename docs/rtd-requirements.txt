@@ -1,5 +1,5 @@
 # packages needed for building on readthedocs.io
 
-pillow>=6.2.0  # fixes RTD error "error: Pillow 5.4.1 is installed but pillow>=6.2.0 is required by {'matplotlib'}"
-nbsphinx >= 0.7.1
-sphinx-copybutton >= 0.2.12
+#pillow>=6.2.0  # fixes RTD error "error: Pillow 5.4.1 is installed but pillow>=6.2.0 is required by {'matplotlib'}"
+#nbsphinx >= 0.7.1
+#sphinx-copybutton >= 0.2.12
